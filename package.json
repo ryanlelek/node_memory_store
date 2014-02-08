@@ -1,0 +1,11 @@
+{
+  "name": "node_memory_store",
+  "version": "0.0.1",
+  "description": "Node.js in-memory data store intended for prototyping",
+  "author": "Ryan Lelek <ryanlelek@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanlelek/node_memory_store.git"
+  },
+  "main": "./lib/memory_store.js"
+}
