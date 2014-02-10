@@ -1,6 +1,6 @@
 {
   "name": "node_memory_store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js in-memory data store intended for prototyping",
   "author": "Ryan Lelek <ryanlelek@gmail.com>",
   "repository": {
